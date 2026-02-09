@@ -1,8 +1,6 @@
 # LVM-lab
 
-Here’s a **clean, GitHub-ready README.md** created from your content, structured, polished, and easy to follow while **preserving the practical, step-by-step nature** of your original guide.
 
-You can copy-paste this directly into `README.md`.
 
 ---
 
