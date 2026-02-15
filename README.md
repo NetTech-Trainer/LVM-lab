@@ -242,19 +242,3 @@ Also remove entry from `/etc/fstab`.
 Free to use for **learning and educational purposes**.
 
 ---
-
-## 🙌 Acknowledgement
-
-Created by **Tushar Jadhav**
-If you find this useful, ⭐ star the repo and share it with others!
-
----
-
-If you want, I can also:
-
-* Split this into multiple markdown files
-* Add diagrams (PV → VG → LV)
-* Convert it into a **blog-style README**
-* Add troubleshooting & interview questions
-
-Just tell me 👍
